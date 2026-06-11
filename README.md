@@ -1,12 +1,11 @@
 # LedgerAudit // Financial Forensic Dashboard
 
-**LedgerAudit** is a certified financial forensic dashboard built to investigate, track, and audit high-risk ledger transactions. It provides a secure, intuitive, and highly responsive Single Page Application (SPA) designed for financial analysts and auditors to seamlessly sort risks, track money movement, and assign investigatory tasks.
+**LedgerAudit** is a certified financial Audit dashboard built to investigate, track, and audit high-risk ledger transactions. It provides a secure, intuitive, and highly responsive Single Page Application (SPA) designed for financial analysts and auditors to seamlessly sort risks, track money movement, and assign investigatory tasks.
 
 ---
 
-## 🚀 Live Demo
-**[Live Application Link](https://ledgeraudit.vercel.app/)**  
-*(Note: This is a placeholder link. Once you deploy to Vercel, update this URL to your actual Vercel project link).*
+##  Live Demo
+**[Live Application Link] https://ledger-audit.vercel.app/
 
 ---
 
