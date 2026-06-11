@@ -1,24 +1,23 @@
 # LedgerAudit // Financial Forensic Dashboard
 
-![LedgerAudit Preview](./src/assets/hero.png)
-
-**LedgerAudit** is a certified financial forensic dashboard built to investigate, track, and audit high-risk ledger transactions. It provides a secure, intuitive, and highly responsive interface designed for financial analysts and auditors to seamlessly sort risks, track money movement, and assign investigatory tasks.
+**LedgerAudit** is a certified financial forensic dashboard built to investigate, track, and audit high-risk ledger transactions. It provides a secure, intuitive, and highly responsive Single Page Application (SPA) designed for financial analysts and auditors to seamlessly sort risks, track money movement, and assign investigatory tasks.
 
 ---
 
 ## 🚀 Live Demo
-**[View Live Application Here](https://ledgeraudit.vercel.app)** *(Note: Update this link once deployed to Vercel/Netlify)*
+**[Live Application Link](https://ledgeraudit.vercel.app/)**  
+*(Note: This is a placeholder link. Once you deploy to Vercel, update this URL to your actual Vercel project link).*
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend Framework:** React 19 (via Vite)
-- **Routing:** React Router DOM v7 (HashRouter for seamless SPA deployment)
-- **Styling:** Tailwind CSS v4 + Vanilla CSS Modules
+- **Frontend:** React 19 (via Vite)
+- **Routing:** React Router DOM v7 (HashRouter implementation for seamless Vercel deployment)
+- **Styling:** Tailwind CSS v4 + Modular CSS Variables
 - **Icons:** Lucide React
-- **State Management:** Custom React Hooks Context (`useAppState.js`)
-- **Build Tool:** Vite
+- **State Management:** Custom React Hooks (`useAppState.js`)
+- **Code Quality:** ESLint
 
 ---
 
@@ -30,28 +29,33 @@
 - **Risk Sorter:** Algorithmic identification of high-risk transactions based on volume and velocity.
 - **Money Movement:** Visual pathing for tracing funds across multiple nodes and accounts.
 - **Task Assignor:** Delegation dashboard for assigning specific transactions to specialized forensic auditors.
-- **Secure Architecture:** Built with strict adherence to clean architecture principles (Zero logic in `App.jsx`, dedicated Routing layer).
 
 ---
 
 ## 📸 Screenshots
 
-*(Replace these with actual links to your screenshots)*
-- **Dashboard:** `![Dashboard Screenshot](link)`
-- **Transaction History:** `![Transactions Screenshot](link)`
-- **Money Movement Trace:** `![Tracing Screenshot](link)`
+*(To complete this section for your assignment, take screenshots of your website and drag them below!)*
+
+### 1. Dashboard Overview
+*(Add screenshot here)*
+
+### 2. Transaction Ledger
+*(Add screenshot here)*
+
+### 3. Forensic Money Movement
+*(Add screenshot here)*
 
 ---
 
 ## 💻 Setup Instructions
 
-Follow these instructions to run the project locally. Another developer should be able to get this running in less than 2 minutes.
+Follow these instructions to run the project locally. Any developer can get this running in less than 2 minutes.
 
 ### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- Git
 
-### Installation
+### Installation & Running Locally
 
 1. **Clone the repository:**
    ```bash
@@ -59,26 +63,25 @@ Follow these instructions to run the project locally. Another developer should b
    cd LedgerAudit
    ```
 
-2. **Install dependencies:**
+2. **Install all dependencies:**
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+3. **Start the local development server:**
    ```bash
    npm run dev
    ```
 
 4. **View the application:**
-   Open your browser and navigate to `http://localhost:5173`
+   Open your browser and navigate to the local server URL (typically `http://localhost:5173`).
 
 ### Building for Production
-
 To create an optimized production build:
 ```bash
 npm run build
 ```
-The bundled files will be generated in the `dist` folder, ready to be deployed to Vercel, Netlify, or GitHub Pages.
+The bundled files will be generated in the `dist` folder.
 
 ---
 
