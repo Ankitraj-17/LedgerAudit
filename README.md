@@ -1,4 +1,4 @@
-# LedgerAudit // Financial Forensic Dashboard
+# LedgerAudit // Financial Audit Dashboard
 
 **LedgerAudit** is a certified financial Audit dashboard built to investigate, track, and audit high-risk ledger transactions. It provides a secure, intuitive, and highly responsive Single Page Application (SPA) designed for financial analysts and auditors to seamlessly sort risks, track money movement, and assign investigatory tasks.
 
@@ -38,10 +38,30 @@
 
 
 ### 2. Transaction Ledger
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 8 58 32 PM" src="https://github.com/user-attachments/assets/a379687f-e379-40a1-926c-c336defed593" />
 
-### 3. Forensic Money Movement
-*(Add screenshot here)*
+
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 8 59 14 PM" src="https://github.com/user-attachments/assets/2c4e1d0d-83d4-4978-bb0c-7f5e9106fcab" />
+
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 8 59 39 PM" src="https://github.com/user-attachments/assets/3decd6e0-c785-4a4b-914d-4e15e60342bf" />
+
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 9 00 10 PM" src="https://github.com/user-attachments/assets/decb5eee-8ba6-44d2-95a9-019cac3e65c9" />
+
+### 3.Flagged Transaction Queue
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 9 03 00 PM" src="https://github.com/user-attachments/assets/cd68e005-30ef-4403-88f9-14a593c2da51" />
+
+
+### 4.Risk Deviation Sorter
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 9 03 29 PM" src="https://github.com/user-attachments/assets/b834eb12-4aad-438a-867c-15b96460ad9d" />
+
+
+### 5.Compliance Task Assignor
+
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 9 04 04 PM" src="https://github.com/user-attachments/assets/2da5828f-00d5-4402-8cbf-69f1164424ba" />### 6. Audit Money Movement
+
+### 6.Network map
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 9 05 09 PM" src="https://github.com/user-attachments/assets/49e26b8e-d11f-44fd-b1c2-f8589d0e10f2" />
+
 
 ---
 
@@ -94,4 +114,4 @@ The application strictly enforces separation of concerns:
 
 ---
 
-*Designed and developed for financial forensics. Strict adherence to React best practices.*
+*Designed and developed for financial Audit. Strict adherence to React best practices.*
