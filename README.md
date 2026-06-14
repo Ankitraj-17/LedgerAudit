@@ -33,10 +33,9 @@
 
 ## 📸 Screenshots
 
-*(To complete this section for your assignment, take screenshots of your website and drag them below!)*
-
 ### 1. Dashboard Overview
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-06-14 at 8 57 15 PM" src="https://github.com/user-attachments/assets/ccffdebc-85f2-4801-ae96-b6186553a042" />
+
 
 ### 2. Transaction Ledger
 *(Add screenshot here)*
